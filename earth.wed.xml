@@ -103,9 +103,7 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection>
-                <sel id="4364"/>
-            </selection>
+            <selection/>
         </object>
         <object class="WED_AirportNode" id="4098" parent_id="4093">
             <sources/>
@@ -37729,15 +37727,15 @@
             <item value="4330"/>
         </pref>
         <pref name="doc/export_target" value="5"/>
-        <pref name="map/east" value="77.593841"/>
-        <pref name="map/north" value="13.136266"/>
+        <pref name="map/east" value="77.612500"/>
+        <pref name="map/north" value="13.148450"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="13.132799"/>
+        <pref name="map/south" value="13.111352"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="77.590607"/>
+        <pref name="map/west" value="77.577893"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
