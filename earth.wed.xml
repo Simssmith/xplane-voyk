@@ -3880,6 +3880,13 @@
                 <marking value="Taxiway Edge Lights (Blue)"/>
             </markings>
         </object>
+        <object class="WED_SimpleBezierBoundaryNode" id="4303" parent_id="4301">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134115941" longitude="77.609799718" split="0"/>
+        </object>
         <object class="WED_AirportNode" id="208" parent_id="178">
             <sources/>
             <viewers/>
@@ -3889,6 +3896,13 @@
             <markings>
                 <marking value="Taxiway Edge Lights (Blue)"/>
             </markings>
+        </object>
+        <object class="WED_SimpleBezierBoundaryNode" id="4304" parent_id="4301">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 2"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134114720" longitude="77.610081560" split="0"/>
         </object>
         <object class="WED_AirportNode" id="209" parent_id="178">
             <sources/>
@@ -3900,6 +3914,13 @@
                 <marking value="Taxiway Edge Lights (Blue)"/>
             </markings>
         </object>
+        <object class="WED_SimpleBezierBoundaryNode" id="4305" parent_id="4301">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 3"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134023719" longitude="77.610081037" split="0"/>
+        </object>
         <object class="WED_AirportNode" id="210" parent_id="178">
             <sources/>
             <viewers/>
@@ -3909,6 +3930,13 @@
             <markings>
                 <marking value="Taxiway Edge Lights (Blue)"/>
             </markings>
+        </object>
+        <object class="WED_SimpleBezierBoundaryNode" id="4306" parent_id="4301">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 4"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134020700" longitude="77.610235781" split="0"/>
         </object>
         <object class="WED_AirportNode" id="211" parent_id="178">
             <sources/>
@@ -37140,34 +37168,6 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.133184908" longitude="77.605090385" split="0"/>
             <markings/>
         </object>
-        <object class="WED_SimpleBezierBoundaryNode" id="4303" parent_id="4301">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134115941" longitude="77.609799718" split="0"/>
-        </object>
-        <object class="WED_SimpleBezierBoundaryNode" id="4304" parent_id="4301">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134114720" longitude="77.610081560" split="0"/>
-        </object>
-        <object class="WED_SimpleBezierBoundaryNode" id="4305" parent_id="4301">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134023719" longitude="77.610081037" split="0"/>
-        </object>
-        <object class="WED_SimpleBezierBoundaryNode" id="4306" parent_id="4301">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 4"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="13.134020700" longitude="77.610235781" split="0"/>
-        </object>
         <object class="WED_SimpleBezierBoundaryNode" id="4307" parent_id="4301">
             <sources/>
             <viewers/>
@@ -37727,15 +37727,15 @@
             <item value="4330"/>
         </pref>
         <pref name="doc/export_target" value="5"/>
-        <pref name="map/east" value="77.612500"/>
-        <pref name="map/north" value="13.148450"/>
+        <pref name="map/east" value="77.612963"/>
+        <pref name="map/north" value="13.148947"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="13.111352"/>
+        <pref name="map/south" value="13.110855"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="77.577893"/>
+        <pref name="map/west" value="77.577430"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -37811,8 +37811,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="391"/>
         <pref name="window/main_split2" value="1360"/>
-        <pref name="window/prev_split" value="600"/>
-        <pref name="window/prop_split" value="643"/>
+        <pref name="window/prev_split" value="610"/>
+        <pref name="window/prop_split" value="653"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
