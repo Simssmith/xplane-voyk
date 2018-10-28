@@ -41901,7 +41901,7 @@
                 <child id="4871"/>
             </children>
             <hierarchy hidden="0" locked="0" name="warehouse_02_45x45.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/buildings/facades/industrial/warehouse_02_45x45.fac" show_level="1 Default"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/airport/Common_Elements/Misc_Buildings/White_Warehouse.fac" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="4873" parent_id="4871">
             <sources/>
@@ -41953,7 +41953,7 @@
                 <child id="4877"/>
             </children>
             <hierarchy hidden="0" locked="0" name="warehouse_07_90x40.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/buildings/facades/industrial/warehouse_07_90x40.fac" show_level="1 Default"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/airport/Common_Elements/Misc_Buildings/White_Warehouse.fac" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="4879" parent_id="4877">
             <sources/>
@@ -42584,7 +42584,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="0.00" latitude="13.138252100" longitude="77.599607887"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4958" parent_id="5326">
             <sources/>
@@ -42592,7 +42592,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="0.00" latitude="13.138251541" longitude="77.599580437"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4959" parent_id="5326">
             <sources/>
@@ -42600,7 +42600,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_01_stack_4x_full.obj"/>
             <point heading="0.00" latitude="13.138170095" longitude="77.599612298"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_01_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4960" parent_id="5326">
             <sources/>
@@ -42608,7 +42608,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="0.00" latitude="13.138038594" longitude="77.599474272"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4961" parent_id="5326">
             <sources/>
@@ -42616,7 +42616,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="0.00" latitude="13.138064998" longitude="77.599474272"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4962" parent_id="5326">
             <sources/>
@@ -42624,7 +42624,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_4x.obj"/>
             <point heading="0.00" latitude="13.138048857" longitude="77.599290958"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_4x.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_2.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4963" parent_id="5326">
             <sources/>
@@ -42632,7 +42632,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_2.obj"/>
             <point heading="0.00" latitude="13.138246695" longitude="77.599367265"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_2.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/16m_tan_white.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4964" parent_id="5326">
             <sources/>
@@ -42640,7 +42640,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_2.obj"/>
             <point heading="0.00" latitude="13.138245730" longitude="77.599400959"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_2.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/16m_tan_white.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4965" parent_id="5326">
             <sources/>
@@ -42648,7 +42648,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Container_2-6Y_random.obj"/>
             <point heading="-180.00" latitude="13.138047892" longitude="77.599396004"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Container_2-6Y_random.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4966" parent_id="5326">
             <sources/>
@@ -42656,7 +42656,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="0.00" latitude="13.138063199" longitude="77.599371343"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4967" parent_id="5326">
             <sources/>
@@ -42664,7 +42664,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="0.00" latitude="13.138062660" longitude="77.599339537"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4968" parent_id="5326">
             <sources/>
@@ -42672,7 +42672,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="0.00" latitude="13.138238648" longitude="77.599491007"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4969" parent_id="5326">
             <sources/>
@@ -42680,7 +42680,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="0.00" latitude="13.138234016" longitude="77.599517170"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4970" parent_id="5326">
             <sources/>
@@ -42688,7 +42688,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="0.00" latitude="13.138234016" longitude="77.599559981"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4971" parent_id="5326">
             <sources/>
@@ -42696,7 +42696,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="porta_potty_2.obj"/>
             <point heading="0.00" latitude="13.138089256" longitude="77.599123544"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/various/porta_potty_2.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4972" parent_id="5326">
             <sources/>
@@ -42704,7 +42704,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="0.00" latitude="13.138127473" longitude="77.599514791"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="4973" parent_id="5326">
             <sources/>
@@ -42712,7 +42712,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="0.00" latitude="13.138127473" longitude="77.599474358"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="4975" parent_id="15">
             <sources/>
@@ -42810,7 +42810,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gateColumn_02.obj"/>
             <point heading="0.00" latitude="13.131672198" longitude="77.595762832"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gateColumn_02.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Modern_Airports/Terminal_kit/columns/column_4m_sq36a.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="4996" parent_id="16">
             <sources/>
@@ -42818,7 +42818,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gateColumn_02.obj"/>
             <point heading="0.00" latitude="13.131671401" longitude="77.595872939"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gateColumn_02.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Modern_Airports/Terminal_kit/columns/column_4m_sq36a.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="4998" parent_id="16">
             <sources/>
@@ -42826,7 +42826,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_08.obj"/>
             <point heading="0.00" latitude="13.131672203" longitude="77.595802079"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_08.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_FacadePlacement" id="4999" parent_id="16">
             <sources/>
@@ -44434,7 +44434,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="1.69" latitude="13.137855920" longitude="77.603431661"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5206" parent_id="4739">
             <sources/>
@@ -44442,7 +44442,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier_8m_01.obj"/>
             <point heading="-30.26" latitude="13.132752323" longitude="77.609782490"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier_8m_01.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5207" parent_id="4739">
             <sources/>
@@ -44450,7 +44450,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier2w_8m_01.obj"/>
             <point heading="87.40" latitude="13.131582779" longitude="77.610445925"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier2w_8m_01.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/red_white_stripe_6m.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5208" parent_id="16">
             <sources/>
@@ -44458,7 +44458,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier_8m_01.obj"/>
             <point heading="-36.38" latitude="13.130745503" longitude="77.609853971"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier_8m_01.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5209" parent_id="5232">
             <sources/>
@@ -44684,7 +44684,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="1.69" latitude="13.137887132" longitude="77.601602203"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5236" parent_id="5255">
             <sources/>
@@ -45071,7 +45071,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="1.69" latitude="13.138853352" longitude="77.596467981"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_Group" id="5279" parent_id="5231">
             <sources/>
@@ -45222,7 +45222,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="1.69" latitude="13.138867693" longitude="77.594369482"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="5325" parent_id="4916">
             <sources/>
@@ -45430,7 +45430,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.134135224" longitude="77.612075321"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5337" parent_id="5327">
             <sources/>
@@ -45438,7 +45438,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.134134677" longitude="77.612034893"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5339" parent_id="5327">
             <sources/>
@@ -45446,7 +45446,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.134027532" longitude="77.611991229"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5340" parent_id="5327">
             <sources/>
@@ -45454,7 +45454,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.134028112" longitude="77.612034035"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5341" parent_id="5327">
             <sources/>
@@ -45462,7 +45462,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.134023834" longitude="77.612060261"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5342" parent_id="5327">
             <sources/>
@@ -45470,7 +45470,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.134186958" longitude="77.612201270"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5343" parent_id="5327">
             <sources/>
@@ -45478,7 +45478,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="139.52" latitude="13.134195368" longitude="77.612147947"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5344" parent_id="5327">
             <sources/>
@@ -45486,7 +45486,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Container_2-6Y_random.obj"/>
             <point heading="-0.80" latitude="13.133987347" longitude="77.612134590"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Container_2-6Y_random.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5345" parent_id="5327">
             <sources/>
@@ -45494,7 +45494,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_2.obj"/>
             <point heading="179.20" latitude="13.133996758" longitude="77.612168831"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_2.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/16m_tan_white.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5347" parent_id="5327">
             <sources/>
@@ -45502,7 +45502,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_4x.obj"/>
             <point heading="179.20" latitude="13.134216314" longitude="77.612257579"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_4x.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_2.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5350" parent_id="5327">
             <sources/>
@@ -45510,7 +45510,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_01_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.134090739" longitude="77.611938005"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_01_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5351" parent_id="5327">
             <sources/>
@@ -45518,7 +45518,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="179.20" latitude="13.134009732" longitude="77.611971025"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5352" parent_id="5327">
             <sources/>
@@ -45526,7 +45526,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="179.20" latitude="13.134008801" longitude="77.611943586"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5353" parent_id="5327">
             <sources/>
@@ -45873,7 +45873,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.134042868" longitude="77.594716266"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5396" parent_id="5386">
             <sources/>
@@ -45881,7 +45881,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.134042320" longitude="77.594675838"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5397" parent_id="5386">
             <sources/>
@@ -45889,7 +45889,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="porta_potty_2.obj"/>
             <point heading="179.20" latitude="13.134085828" longitude="77.595066496"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/various/porta_potty_2.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5398" parent_id="5386">
             <sources/>
@@ -45897,7 +45897,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133935176" longitude="77.594632174"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5399" parent_id="5386">
             <sources/>
@@ -45905,7 +45905,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133935755" longitude="77.594674980"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5400" parent_id="5386">
             <sources/>
@@ -45913,7 +45913,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133931478" longitude="77.594701206"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5401" parent_id="5386">
             <sources/>
@@ -45921,7 +45921,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.134109498" longitude="77.594850147"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5402" parent_id="5386">
             <sources/>
@@ -45929,7 +45929,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.134108529" longitude="77.594818353"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5403" parent_id="5386">
             <sources/>
@@ -45937,7 +45937,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Container_2-6Y_random.obj"/>
             <point heading="-0.80" latitude="13.134123501" longitude="77.594793476"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Container_2-6Y_random.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5406" parent_id="5386">
             <sources/>
@@ -45945,7 +45945,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_4x.obj"/>
             <point heading="179.20" latitude="13.134123958" longitude="77.594898524"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_4x.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_2.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5407" parent_id="5386">
             <sources/>
@@ -45953,7 +45953,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="179.20" latitude="13.134105337" longitude="77.594715462"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5408" parent_id="5386">
             <sources/>
@@ -45961,7 +45961,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="179.20" latitude="13.134131739" longitude="77.594715085"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5409" parent_id="5386">
             <sources/>
@@ -45969,7 +45969,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_01_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.133998382" longitude="77.594578951"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_01_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5410" parent_id="5386">
             <sources/>
@@ -45977,7 +45977,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="179.20" latitude="13.133917376" longitude="77.594611970"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5411" parent_id="5386">
             <sources/>
@@ -45985,7 +45985,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="179.20" latitude="13.133916445" longitude="77.594584532"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5412" parent_id="5386">
             <sources/>
@@ -46390,7 +46390,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.133734841" longitude="77.600238909"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5455" parent_id="5445">
             <sources/>
@@ -46398,7 +46398,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_02_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.133734294" longitude="77.600198481"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_02_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5456" parent_id="5445">
             <sources/>
@@ -46406,7 +46406,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="porta_potty_2.obj"/>
             <point heading="179.20" latitude="13.133775595" longitude="77.600598770"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/various/porta_potty_2.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5457" parent_id="5445">
             <sources/>
@@ -46414,7 +46414,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133627149" longitude="77.600154817"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5458" parent_id="5445">
             <sources/>
@@ -46422,7 +46422,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133627729" longitude="77.600197623"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5459" parent_id="5445">
             <sources/>
@@ -46430,7 +46430,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133623451" longitude="77.600223849"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5460" parent_id="5445">
             <sources/>
@@ -46438,7 +46438,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133801471" longitude="77.600372790"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5461" parent_id="5445">
             <sources/>
@@ -46446,7 +46446,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133800502" longitude="77.600340996"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5462" parent_id="5445">
             <sources/>
@@ -46454,7 +46454,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Container_2-6Y_random.obj"/>
             <point heading="-0.80" latitude="13.133815474" longitude="77.600316119"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Container_2-6Y_random.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5465" parent_id="5445">
             <sources/>
@@ -46462,7 +46462,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_4x.obj"/>
             <point heading="179.20" latitude="13.133815931" longitude="77.600421167"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_4x.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_2.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5466" parent_id="5445">
             <sources/>
@@ -46470,7 +46470,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="179.20" latitude="13.133797310" longitude="77.600238104"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5467" parent_id="5445">
             <sources/>
@@ -46478,7 +46478,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="179.20" latitude="13.133823712" longitude="77.600237728"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5468" parent_id="5445">
             <sources/>
@@ -46486,7 +46486,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="goods_01_stack_4x_full.obj"/>
             <point heading="179.20" latitude="13.133690356" longitude="77.600101594"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/goods_01_stack_4x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Container_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5469" parent_id="5445">
             <sources/>
@@ -46494,7 +46494,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="179.20" latitude="13.133609349" longitude="77.600134613"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5470" parent_id="5445">
             <sources/>
@@ -46502,7 +46502,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_4x_04.obj"/>
             <point heading="179.20" latitude="13.133608418" longitude="77.600107175"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_4x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_4.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5473" parent_id="5445">
             <sources/>
@@ -46939,7 +46939,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="179.33" latitude="13.132530666" longitude="77.593351805"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_Group" id="5527" parent_id="5231">
             <sources/>
@@ -47144,7 +47144,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="179.33" latitude="13.132287143" longitude="77.599618985"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_Group" id="5550" parent_id="5231">
             <sources/>
@@ -47322,7 +47322,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="gate_8mL_06.obj"/>
             <point heading="179.33" latitude="13.130775461" longitude="77.608938296"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/gates/gate_8mL_06.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/light/SecBarrier.obj" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeRing" id="5573" parent_id="5574">
             <sources/>
@@ -48085,7 +48085,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_3.obj"/>
             <point heading="0.00" latitude="13.133920184" longitude="77.594734670"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_3.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_wood.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5662" parent_id="5386">
             <sources/>
@@ -48093,7 +48093,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_3.obj"/>
             <point heading="0.00" latitude="13.133910805" longitude="77.595003784"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_3.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_wood.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="5663" parent_id="5386">
             <sources/>
@@ -48117,7 +48117,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133760643" longitude="77.600422080"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5666" parent_id="5445">
             <sources/>
@@ -48125,7 +48125,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133760091" longitude="77.600453807"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5667" parent_id="5445">
             <sources/>
@@ -48133,7 +48133,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133757884" longitude="77.600493466"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5668" parent_id="5445">
             <sources/>
@@ -48141,7 +48141,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133757333" longitude="77.600531992"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5669" parent_id="5445">
             <sources/>
@@ -48149,7 +48149,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_empty.obj"/>
             <point heading="179.20" latitude="13.133757333" longitude="77.600531992"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_empty.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5670" parent_id="5445">
             <sources/>
@@ -48157,7 +48157,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133623451" longitude="77.600261808"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5671" parent_id="5445">
             <sources/>
@@ -48165,7 +48165,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133625106" longitude="77.600292402"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5672" parent_id="5445">
             <sources/>
@@ -48173,7 +48173,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133626761" longitude="77.600343392"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5673" parent_id="5445">
             <sources/>
@@ -48181,7 +48181,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="Dumpster_30Y_full_3.obj"/>
             <point heading="179.20" latitude="13.133626761" longitude="77.600343392"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/street/waste_management/Dumpster_30Y_full_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5674" parent_id="5445">
             <sources/>
@@ -48189,7 +48189,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="179.20" latitude="13.133769638" longitude="77.600240563"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5675" parent_id="5445">
             <sources/>
@@ -48197,7 +48197,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="lumber_rack_11m.obj"/>
             <point heading="179.20" latitude="13.133697798" longitude="77.600235372"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/lumber_rack_11m.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_3.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5676" parent_id="5386">
             <sources/>
@@ -48213,7 +48213,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_340_1.obj"/>
             <point heading="0.00" latitude="13.133998542" longitude="77.612202913"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_340_1.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_green.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5681" parent_id="4253">
             <sources/>
@@ -48221,7 +48221,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_3.obj"/>
             <point heading="0.00" latitude="13.134103021" longitude="77.612010775"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_wood.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5683" parent_id="4253">
             <sources/>
@@ -48229,7 +48229,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="silo_260_3.obj"/>
             <point heading="0.00" latitude="13.134001253" longitude="77.612249157"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/storage_tanks/silo_260_3.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_wood.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5690" parent_id="5327">
             <sources/>
@@ -48237,7 +48237,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_8x_full.obj"/>
             <point heading="243.43" latitude="13.134193210" longitude="77.612052536"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_8x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5691" parent_id="5327">
             <sources/>
@@ -48245,7 +48245,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_8x_full.obj"/>
             <point heading="243.43" latitude="13.134195892" longitude="77.612095814"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_8x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5692" parent_id="5327">
             <sources/>
@@ -48253,7 +48253,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_8x_full.obj"/>
             <point heading="243.43" latitude="13.134156044" longitude="77.612123355"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_8x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5693" parent_id="5327">
             <sources/>
@@ -48261,7 +48261,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_8x_full.obj"/>
             <point heading="243.43" latitude="13.134110833" longitude="77.612126896"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_8x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5694" parent_id="5327">
             <sources/>
@@ -48269,7 +48269,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="pallets_eu_stack_8x_full.obj"/>
             <point heading="243.43" latitude="13.134168037" longitude="77.612305076"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/pallets_eu_stack_8x_full.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5695" parent_id="5327">
             <sources/>
@@ -48277,7 +48277,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_05.obj"/>
             <point heading="0.00" latitude="13.134177817" longitude="77.612410787"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_05.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5696" parent_id="5327">
             <sources/>
@@ -48285,7 +48285,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_05.obj"/>
             <point heading="0.00" latitude="13.134175830" longitude="77.612425744"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_05.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5697" parent_id="5327">
             <sources/>
@@ -48293,7 +48293,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_05.obj"/>
             <point heading="0.00" latitude="13.134176492" longitude="77.612393110"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_05.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5698" parent_id="5327">
             <sources/>
@@ -48301,7 +48301,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_05.obj"/>
             <point heading="-180.00" latitude="13.134176492" longitude="77.612374074"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_05.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5699" parent_id="5327">
             <sources/>
@@ -48309,7 +48309,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_04.obj"/>
             <point heading="0.00" latitude="13.134138013" longitude="77.612422810"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5700" parent_id="5327">
             <sources/>
@@ -48317,7 +48317,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_04.obj"/>
             <point heading="180.00" latitude="13.134137055" longitude="77.612405760"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5701" parent_id="5327">
             <sources/>
@@ -48325,7 +48325,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_04.obj"/>
             <point heading="0.00" latitude="13.134135778" longitude="77.612387728"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_04.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_1.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5702" parent_id="5327">
             <sources/>
@@ -48333,7 +48333,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_03.obj"/>
             <point heading="0.00" latitude="13.134183776" longitude="77.612243754"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_03.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_2.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5703" parent_id="5327">
             <sources/>
@@ -48341,7 +48341,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrels_8x_03.obj"/>
             <point heading="0.00" latitude="13.134185155" longitude="77.612261223"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/industrial_area/goods/barrels_8x_03.obj" show_level="4 Mega tons"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Palette_2.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5704" parent_id="5327">
             <sources/>
@@ -55584,7 +55584,7 @@
                 <child id="6577"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="1 Default"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="6579" parent_id="6577">
             <sources/>
@@ -55642,7 +55642,7 @@
                 <child id="6585"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="1 Default"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="6587" parent_id="6585">
             <sources/>
@@ -55677,7 +55677,7 @@
                 <child id="6589"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="1 Default"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="6591" parent_id="6589">
             <sources/>
@@ -55709,7 +55709,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier_8m_01.obj"/>
             <point heading="-2.34" latitude="13.133408498" longitude="77.611298129"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier_8m_01.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="6595" parent_id="16">
             <sources/>
@@ -56045,7 +56045,7 @@
                 <child id="6632"/>
             </children>
             <hierarchy hidden="0" locked="0" name="warehouse_01_45x45.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/buildings/facades/industrial/warehouse_01_45x45.fac" show_level="4 Mega tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/airport/Common_Elements/Misc_Buildings/White_Warehouse.fac" show_level="4 Mega tons"/>
         </object>
         <object class="WED_FacadeNode" id="6634" parent_id="6632">
             <sources/>
@@ -56101,7 +56101,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier_8m_01.obj"/>
             <point heading="-153.00" latitude="13.142256838" longitude="77.607621199"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier_8m_01.obj" show_level="2 A lot"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj" show_level="2 A lot"/>
         </object>
         <object class="WED_ObjPlacement" id="6641" parent_id="16">
             <sources/>
@@ -56157,7 +56157,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier_8m_01.obj"/>
             <point heading="0.00" latitude="13.140473886" longitude="77.598295801"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier_8m_01.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/grey_6m.obj" show_level="1 Default"/>
         </object>
         <object class="WED_FacadeNode" id="6648" parent_id="6572">
             <sources/>
@@ -56181,7 +56181,7 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="barrier2w_8m_01.obj"/>
             <point heading="90.00" latitude="13.136490008" longitude="77.616890927"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/constructions/fencing/barriers/barrier2w_8m_01.obj" show_level="1 Default"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/concrete/red_white_stripe_6m.obj" show_level="1 Default"/>
         </object>
         <object class="WED_ObjPlacement" id="6651" parent_id="16">
             <sources/>
@@ -58718,7 +58718,7 @@
                 <child id="7026"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeNode" id="7028" parent_id="7026">
             <sources/>
@@ -58743,7 +58743,7 @@
                 <child id="7047"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7047" parent_id="7046">
             <sources/>
@@ -58777,7 +58777,7 @@
                 <child id="7051"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7051" parent_id="7050">
             <sources/>
@@ -58811,7 +58811,7 @@
                 <child id="7055"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7055" parent_id="7054">
             <sources/>
@@ -58845,7 +58845,7 @@
                 <child id="7059"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7059" parent_id="7058">
             <sources/>
@@ -58879,7 +58879,7 @@
                 <child id="7063"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7063" parent_id="7062">
             <sources/>
@@ -58913,7 +58913,7 @@
                 <child id="7067"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7067" parent_id="7066">
             <sources/>
@@ -58947,7 +58947,7 @@
                 <child id="7071"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7071" parent_id="7070">
             <sources/>
@@ -58981,7 +58981,7 @@
                 <child id="7075"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7075" parent_id="7074">
             <sources/>
@@ -59015,7 +59015,7 @@
                 <child id="7079"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7079" parent_id="7078">
             <sources/>
@@ -59049,7 +59049,7 @@
                 <child id="7083"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7083" parent_id="7082">
             <sources/>
@@ -59083,7 +59083,7 @@
                 <child id="7087"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7087" parent_id="7086">
             <sources/>
@@ -59117,7 +59117,7 @@
                 <child id="7091"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7091" parent_id="7090">
             <sources/>
@@ -59151,7 +59151,7 @@
                 <child id="7095"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7095" parent_id="7094">
             <sources/>
@@ -59185,7 +59185,7 @@
                 <child id="7099"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7099" parent_id="7098">
             <sources/>
@@ -59219,7 +59219,7 @@
                 <child id="7103"/>
             </children>
             <hierarchy hidden="0" locked="0" name="fence_Wall-2m_03.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/constructions/fencing/fence_Wall-2m_03.fac" show_level="3 Tons"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/g10/global_objects/fencing_Wall_2m.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeRing" id="7103" parent_id="7102">
             <sources/>
@@ -59437,7 +59437,7 @@
         <pref name="map_Exclusions_Exclusions" value="110,112"/>
         <pref name="map_Facades_Height" value="10.000000"/>
         <pref name="map_Facades_Pick Walls" value="1"/>
-        <pref name="map_Facades_Resource" value="lib/constructions/fencing/fence_Wall-2m_03.fac"/>
+        <pref name="map_Facades_Resource" value="lib/g10/global_objects/fencing_Wall_2m.fac"/>
         <pref name="map_Forests_Density" value="1.000000"/>
         <pref name="map_Forests_Resource" value="lib/g8/mixed_sp_hot_dry.for"/>
         <pref name="map_Helipad_Edge Lights" value="15"/>
